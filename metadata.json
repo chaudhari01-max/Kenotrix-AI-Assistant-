@@ -1,0 +1,7 @@
+{
+  "name": "Kenotrix AI Assistant ",
+  "description": "An advanced AI research assistant with real-time web grounding, voice interaction, and community discovery.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
